@@ -3,7 +3,8 @@ Welcome to my land of codes and logics.
 
 # Projects
 If you are wondering what projects that I have been participated on, here is the list of them:
-<h2>1. Jejakarta</h2>
+<h2>COMPANY PROJECTS</h2>
+<h3>1. Jejakarta</h3>
 
 ![Jejakarta Banner](Pictures/AndroidTVBanner_320x180.png)
 
@@ -15,7 +16,7 @@ Jejakarta is an offline mobile board game published on Google Play Store (Androi
 
 <b>My Role in this Project</b>: Full Game Programmer.
 
-<h2>2. Rocket Escape</h2>
+<h3>2. Rocket Escape</h3>
 
 ![Rocket Escape Icon](Pictures/RocketEscapeIcon.png)
 
@@ -27,7 +28,7 @@ Rocket Escape is a mobile hypercasual game published on Google Play Store (Andro
 
 <b>My Role in this Project</b>: Game Designer and Game Programmer.
 
-<h2>3. Monkeyland Battleground</h2>
+<h3>3. Monkeyland Battleground</h3>
 
 ![Monkeyland Battleground Icon](Pictures/MonkeylandIcon.png)
 
@@ -39,11 +40,23 @@ Monkeyland Battleground is a mobile multiplayer game published on Google Play St
 
 <b>My Role in this Project</b>: Quality Assurance Programmer.
 
+<h3>4. Power Kart Racing</h3>
+
+![Power Kart Racing Icon](Pictures/PowerKartIcon.png)
+
+<b>Google Play Store Link</b>: [Power Kart Racing](https://play.google.com/store/apps/details?id=com.hit.powerkartracing&pcampaignid=web_share)
+
+<b>Description</b>:
+
+Power Kart Racing is a multiplayer racing game published on Google Play Store (Android TV) by Polytron. It is an arcade racing game which players will compete for the best time of each map.
+
+<b>My Role in this Project</b>: Lead Game Programmer.
 
 
-<h1>--OLD PERSONAL PROJECTS DURING UNIVERSITY--</h1>
 
-<h2>4. M Dungeon</h2>
+<h2>PERSONAL PROJECTS</h2>
+
+<h3>1. M Dungeon</h3>
 
 ![M Dungeon Banner](Pictures/MathDungeon.png)
 
@@ -55,7 +68,7 @@ M Dungeon is a web game published in itch.io, which is a simple quiz game about 
 
 <b>My Role in this Project</b>: Game Designer, Game Programmer, Sound Engineer.
 
-<h2>5. Autumn Harvest</h2>
+<h3>2. Autumn Harvest</h3>
 
 ![Autumn Harvest Picture](Pictures/AutumnHarvest.png)
 
