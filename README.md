@@ -14,7 +14,7 @@ If you are wondering what projects that I have been participated on, here is the
 
 Jejakarta is an offline mobile board game published on Google Play Store (Android) by Polytron. It is a game about maintaining emissions in Jakarta through certain transportations such as electric bike, eco car, and train.
 
-<b>My Role in this Project</b>: Full Game Programmer.
+<b>My Role in this Project</b>: Lead Game Programmer.
 
 <h3>2. Rocket Escape</h3>
 
@@ -52,7 +52,7 @@ Power Kart Racing is a multiplayer racing game published on Google Play Store (A
 
 <b>My Role in this Project</b>: Lead Game Programmer.
 
-
+<br/>
 
 <h2>PERSONAL PROJECTS</h2>
 
