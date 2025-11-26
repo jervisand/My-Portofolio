@@ -52,6 +52,18 @@ Power Kart Racing is a multiplayer racing game published on Google Play Store (A
 
 <b>My Role in this Project</b>: Lead Game Programmer.
 
+<h3>5. AyoMain!</h3>
+
+![AyoMain Icon](Pictures/AyoMain.png)
+
+<b>Website Link</b>: [AyoMain](https://ayomain.games/home)
+
+<b>Description</b>:
+
+AyoMain! is a web-based multiplayer gaming platform published by Nagih Games. Players can use their own phones as the controller for playing games.
+
+<b>My Role in this Project</b>: Full Stack Developer.
+
 <br/>
 
 <h2>PERSONAL PROJECTS</h2>
